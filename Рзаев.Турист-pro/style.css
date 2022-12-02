@@ -1,0 +1,136 @@
+body {
+    font-family: 'Onest', sans-serif;
+    background-color: bisque;
+}
+
+.header {
+    font-family: 'Onest';
+    background: #6c9205dc;
+}
+
+.logo {
+    margin-left: 55px;
+    margin-top: 37px;
+}
+
+.nav{
+    margin-left: 122px;
+}
+.nav-item{
+    margin-left: 155px;
+    margin-top: -20px;
+    margin-bottom: 25px;
+}
+.nav-item1{
+    margin-left: 420px;
+    margin-top: -50px;
+    margin-bottom: 45px;
+}
+.nav-item2{
+    margin-left: 650px;
+    margin-top: -73px;
+    margin-bottom: 65px;
+}
+.nav-item3{
+    margin-left: 920px;
+    margin-top: -90px;
+    margin-bottom: 87px;
+}
+.nav-item4{
+    margin-left: 1240px;
+    margin-top: -111px;
+    margin-bottom: 100px;
+}
+.shop-search{
+    margin-left: 1600px;
+    margin-top: -300px;
+    margin-bottom: 210px;
+}
+.fly{
+    margin-left: 1650px;
+    margin-top: -200px;
+    margin-bottom: 27px;
+    width: 190px;
+}
+.title{
+    margin-left: 530px;
+    margin-top: -550px;
+    margin-bottom: 500px;
+    color: aliceblue;
+    width: 1000px;
+    height: 300px;
+    font-size: 4.8rem;
+}
+.citi{
+    width:1890px;
+    height: 800px;
+}
+.a{
+    color: aliceblue;
+}
+.b{
+    color: aliceblue;
+}
+.c{
+    color: aliceblue;
+}
+.d{
+    color: aliceblue;
+}
+.v{
+    color: aliceblue;
+}
+.little{
+    margin-left: 400px;
+    margin-top: -1999px;
+    margin-bottom: -1990px;
+    color: azure;
+    font-size: 3.0rem;
+}
+.subscription{
+    margin-top: 2000px;
+    margin-bottom: -1499px;
+}
+.menu{
+    margin-top: 100px;
+}
+.darvin{
+    margin-top: 2000px;
+    margin-bottom: -1789px;
+}
+.footer{
+    margin-top: 1900px;
+    margin-bottom: -99px;
+}
+.diving{
+    margin-top: -60px;
+    margin-bottom: 56px;
+    color: aliceblue;
+    font-size: 2.4rem;
+    margin-left: 300px;
+}
+.wraper{
+    margin-top: 600px;
+    margin-bottom: -597px;
+}
+.main-btn{
+    margin-top: 700px;
+}
+.navin{
+    margin-top: -90px;
+    font-size: 1.3rem;
+    margin-bottom: 98px;
+    color: aliceblue;
+}
+.navin{
+    font-size: 2.3rem;
+    width: 500px;
+    height: 390px;
+    margin-top: -132px;
+    margin-left: 111px;
+}
+.mald{
+    margin-top: -840px;
+    margin-bottom: 799px;
+    margin-left: 12px;
+}
